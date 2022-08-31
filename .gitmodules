@@ -1,0 +1,6 @@
+[submodule "bosch"]
+	path = bosch
+	url = git@github.com:bosch-ros-pkg/bstld.git
+[submodule "yolov3/darknet"]
+	path = yolov3/darknet
+	url = git@github.com:pjreddie/darknet.git
