@@ -26,3 +26,5 @@ Run the following on terminal for training the model
 
 cd darknet
 ./darknet detector demo traffic_lights/bosch.data traffic_lights/yolov3-tiny-bosch.cfg traffic_lights/backup/<weight_file> <video file>
+
+Testing was done on OpenImageV6 images.
